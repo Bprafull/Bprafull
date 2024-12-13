@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on SQL,Python,Tableau, PowerBI, Looker, RPA projects
 - 📫 How to reach me - prafull.b1989@gmail.com
+- My Tableau profile - https://public.tableau.com/app/profile/prafull.bhivgade/vizzes
+- My Hackerank profile - 
 
 <!---
 Bprafull/Bprafull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
