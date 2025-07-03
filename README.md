@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bprafull
-- 🎯🚀 **2020 to 2025 Goals:** Explore the more and more research of Deep learning, NLP, Time Series Analysis, Audio Deep learning, Image Segmentation etc.
+- 🎯🚀 **2020 to 2025 My Career Goals:** Explore the more and more research of Deep learning, NLP, Time Series Analysis, Audio Deep learning, Image Segmentation etc.
 - 👀 My Passion is in Data Analytics
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on SQL,Python,Tableau, PowerBI, Looker, RPA projects
